@@ -1,5 +1,6 @@
-# Magma Website
+![image_alt](https://github.com/sandeepswain03/Magma-Website/blob/bf896a27a6771ce2d7073a246a6fcfa9ed919dd4/Magma.png)
 
+# Magma Website
 A brief description or overview of what the website is about.
 
 ## Table of Contents
